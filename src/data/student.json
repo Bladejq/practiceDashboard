@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "name": "Адамбаев Мади",
+    "img": "/img/student/user.png",
+    "photos": [
+      "/img/works/Madi/photo1.jpg",
+      "/img/works/Madi/photo2.jpg",
+      "/img/works/Madi/photo3.jpg",
+      "/img/works/Madi/photo4.jpg",
+      "/img/works/Madi/photo5.jpg",
+      "/img/works/Madi/photo6.jpg",
+      "/img/works/Madi/photo7.jpg",
+      "/img/works/Madi/photo8.jpg",
+      "/img/works/Madi/photo9.jpg",
+      "/img/works/Madi/photo10.jpg",
+      "/img/works/Madi/photo11.jpg",
+      "/img/works/Madi/photo12.jpg",
+      "/img/works/Madi/photo13.jpg"
+    ],
+    "works": [
+      "Дизайн макетов",
+      "Создание визиток",
+      "Редактирование фото"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Нурмағанбет Аян",
+    "img": "/img/student/Ayn.jpg",
+    "photos": [
+      "/img/works/Ayn/photo1.jpg",
+      "/img/works/Ayn/photo2.jpg",
+      "/img/works/Ayn/photo3.jpg",
+      "/img/works/Ayn/photo4.jpg",
+      "/img/works/Ayn/photo5.jpg",
+      "/img/works/Ayn/photo6.jpg",
+      "/img/works/Ayn/photo7.jpg",
+      "/img/works/Ayn/photo8.jpg",
+      "/img/works/Ayn/photo9.jpg",
+      "/img/works/Ayn/photo10.jpg",
+      "/img/works/Ayn/photo11.jpg"
+    ],
+    "works": [
+      "Создание баннеров",
+      "Логотипы",
+      "Работа с Tailwind"
+    ]
+  },
+    {
+    "id": 3,
+    "name": "Нурсултан Куаныш",
+    "img": "/img/student/Kuanysh.jpg",
+    "photos": [
+      "/img/works/Kuanysh/photo1.jpg",
+      "/img/works/Kuanysh/photo2.jpg",
+      "/img/works/Kuanysh/photo3.jpg",
+      "/img/works/Kuanysh/photo4.jpg",
+      "/img/works/Kuanysh/photo5.jpg",
+      "/img/works/Kuanysh/photo6.jpg",
+      "/img/works/Kuanysh/photo7.jpg",
+      "/img/works/Kuanysh/photo8.jpg",
+      "/img/works/Kuanysh/photo9.jpg",
+      "/img/works/Kuanysh/photo10.jpg",
+      "/img/works/Kuanysh/photo11.jpg",
+      "/img/works/Kuanysh/photo12.jpg",
+      "/img/works/Kuanysh/photo13.jpg"
+    ],
+    "works": [
+      "Создание баннеров",
+      "Логотипы",
+      "Работа с Tailwind"
+    ]
+  },
+
+    {
+    "id": 4,
+    "name": "Шерхан Нурназ",
+    "img": "/img/student/Nurnaz.png",
+    "photos": [
+      "/img/works/Nurnaz/china-TourShablon.png",
+      "/img/works/Nurnaz/Screenshot_1.png",
+      "/img/works/Nurnaz/izi-travel1.png",
+      "/img/works/Nurnaz/izi-travel2.png",
+      "/img/works/Nurnaz/izi-travel3.png",
+      "/img/works/Nurnaz/izi-travel4.png",
+      "/img/works/Nurnaz/oi-qaragai1.png",
+      "/img/works/Nurnaz/oi-qaragai2.png",
+      "/img/works/Nurnaz/toshkent1.png",
+      "/img/works/Nurnaz/toshkent2.png",
+      "/img/works/Nurnaz/vizit1.png",
+      "/img/works/Nurnaz/vizit2.png"
+    ],
+    "works": [
+      "Брошюраларға дизайннын даярлау",
+      "Көпбетті брошюраның дизайнын даярлау",
+      "Кітапша брошюраның дизайнын даярлау",
+      "Визиткалар даярлау",
+      "Клиенттермен сөйлесу",
+      "Adobe Photoshop-та тағы-да майда жұмыстар жасау"
+    ]
+  }
+]
