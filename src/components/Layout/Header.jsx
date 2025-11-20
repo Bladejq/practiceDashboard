@@ -6,10 +6,12 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-white text-gray-900 shadow-md">
+    <header className="bg-blue-400 text-white shadow-md">
       <nav className="max-w-6xl mx-auto flex items-center justify-between p-4 md:p-6">
         <div className="font-bold text-2xl md:text-3xl tracking-wide">
-          Практика
+          <a href="/">
+            Практика
+          </a>
         </div>
 
         {/* Меню для ПК */}
@@ -18,10 +20,10 @@ export default function Header() {
             Басты бет
           </Link>
           <Link to="/about" className="hover:text-blue-600 transition-colors">
-            About
+            Біз туралы
           </Link>
           <Link to="/contact" className="hover:text-blue-600 transition-colors">
-            Contact
+            Презентация
           </Link>
         </div>
 
@@ -51,14 +53,14 @@ export default function Header() {
             className="block py-2 text-lg hover:text-blue-600 transition-colors"
             onClick={() => setIsOpen(false)}
           >
-            About
+            Біз туралы
           </Link>
           <Link
             to="/contact"
             className="block py-2 text-lg hover:text-blue-600 transition-colors"
             onClick={() => setIsOpen(false)}
           >
-            Contact
+            Презентация
           </Link>
         </div>
       )}

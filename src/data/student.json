@@ -19,15 +19,23 @@
       "/img/works/Madi/photo13.jpg",
       "/img/works/Madi/madi1.jpg",
       "/img/works/Madi/madi2.jpg",
-      "/img/student/madi3.jpg"
+      "/img/student/madi3.jpg",
+      "/img/works/Madi/photo_6.jpg",
+      "/img/works/Madi/photo_7.jpg",
+      "/img/works/Madi/photo_8.jpg",
+      "/img/works/Madi/photo_9.jpg",
+      "/img/works/Madi/photo_10.jpg",
+      "/img/works/Madi/photo_11.jpg",
+      "/img/works/Madi/photo_12.jpg"
     ],
     "works": [
       "Брошюраларға дизайннын даярлау",
       "Көпбетті брошюраның дизайнын даярлау",
+      "Туристтік карта брошюрасын даярлау",
+      "Туристтік кітапша даярлау",
       "Кітапша брошюраның дизайнын даярлау",
       "Визиткалар даярлау",
-      "Клиенттермен сөйлесу",
-      "Adobe Photoshop-та тағы-да майда жұмыстар жасау"
+      "Клиенттермен сөйлесу"
     ]
   },
   {
@@ -51,9 +59,10 @@
       "Брошюраларға дизайннын даярлау",
       "Көпбетті брошюраның дизайнын даярлау",
       "Кітапша брошюраның дизайнын даярлау",
+      "Карта даярлау",
+      "Баннерлер даярлау",
       "Визиткалар даярлау",
-      "Клиенттермен сөйлесу",
-      "Adobe Photoshop-та тағы-да майда жұмыстар жасау"
+      "Клиенттермен сөйлесу"
     ]
   },
     {
@@ -73,7 +82,12 @@
       "/img/works/Kuanysh/photo10.jpg",
       "/img/works/Kuanysh/photo11.jpg",
       "/img/works/Kuanysh/photo12.jpg",
-      "/img/works/Kuanysh/photo13.jpg"
+      "/img/works/Kuanysh/photo13.jpg",
+      "/img/works/Kuanysh/photo_1.jpg",
+      "/img/works/Kuanysh/photo_2.jpg",
+      "/img/works/Kuanysh/photo_3.jpg",
+      "/img/works/Kuanysh/photo_4.jpg",
+      "/img/works/Kuanysh/photo_5.jpg"
     ],
     "works": [
       "Брошюраларға дизайннын даярлау",
@@ -81,7 +95,7 @@
       "Кітапша брошюраның дизайнын даярлау",
       "Визиткалар даярлау",
       "Клиенттермен сөйлесу",
-      "Adobe Photoshop-та тағы-да майда жұмыстар жасау"
+      "Брошюраларды шығару (распечатка)"
     ]
   },
 
@@ -100,8 +114,12 @@
       "/img/works/Nurnaz/oi-qaragai2.png",
       "/img/works/Nurnaz/toshkent1.png",
       "/img/works/Nurnaz/toshkent2.png",
-      "/img/works/Nurnaz/vizit1.png",
-      "/img/works/Nurnaz/vizit2.png"
+      "/img/works/Nurnaz/photo_13.jpg",
+      "/img/works/Nurnaz/photo_15.jpg",
+      "/img/works/Nurnaz/photo_16.jpg",
+      "/img/works/Nurnaz/photo_17.jpg",
+      "/img/works/Nurnaz/photo_18.jpg",
+      "/img/works/Nurnaz/photo_20.jpg"
     ],
     "works": [
       "Брошюраларға дизайннын даярлау",
@@ -109,7 +127,9 @@
       "Кітапша брошюраның дизайнын даярлау",
       "Визиткалар даярлау",
       "Клиенттермен сөйлесу",
-      "Adobe Photoshop-та тағы-да майда жұмыстар жасау"
+      "Adobe Photoshop-та беттеу жұмыстарын жасау",
+      "Кітапшалар даярлау",
+      ".pdf-те экспорттау"
     ]
   }
 ]
