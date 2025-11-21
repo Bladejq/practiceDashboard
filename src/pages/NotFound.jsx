@@ -1,8 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import { useEffect } from "react";
+
 
 export default function NotFound() {
+      useEffect(() => {
+        document.title = "Бет табылмады";
+    }, []);
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex items-center justify-center px-4 relative overflow-hidden">
       {/* Animated Background */}

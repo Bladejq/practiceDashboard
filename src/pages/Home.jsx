@@ -89,7 +89,7 @@ export default function Home() {
                             animate={isHeroInView ? { opacity: 1 } : {}}
                             transition={{ duration: 1, delay: 0.6 }}
                         >
-                            <span className="text-cyan-400 font-semibold">Дизайн</span>, <span className="text-purple-400 font-semibold">Веб-Даму</span> және <span className="text-pink-400 font-semibold">Баспа</span> салаларындағы <span className="text-yellow-400 font-semibold">шынайы тәжірибе</span>
+                            <span className="text-cyan-400 font-semibold">Дизайн</span>, <span className="text-purple-400 font-semibold">Типография</span> және <span className="text-pink-400 font-semibold">Баспа</span> салаларындағы <span className="text-yellow-400 font-semibold">өткен өндірістік тәжірибе</span>
                         </motion.p>
 
                         <motion.div

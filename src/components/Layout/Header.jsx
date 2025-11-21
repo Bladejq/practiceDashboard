@@ -16,7 +16,15 @@ export default function Header() {
         <div className="hidden md:flex space-x-8 font-semibold text-lg">
           <Link to="/" className="hover:text-cyan-300 transition-colors">Басты бет</Link>
           <Link to="/about" className="hover:text-cyan-300 transition-colors">Біз туралы</Link>
-          <Link to="/contact" className="hover:text-cyan-300 transition-colors">Презентация</Link>
+          <a
+            href="/presentation.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-cyan-300 transition-colors"
+          >
+            Презентация
+          </a>
+
         </div>
 
         {/* Бургер на мобильных */}
@@ -47,13 +55,16 @@ export default function Header() {
           >
             Біз туралы
           </Link>
-          <Link
-            to="/contact"
+          <a
+            href="/presentation.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="block py-3 text-lg text-white hover:text-cyan-200 transition-colors"
             onClick={() => setIsOpen(false)}
           >
             Презентация
-          </Link>
+          </a>
+
         </div>
       )}
 

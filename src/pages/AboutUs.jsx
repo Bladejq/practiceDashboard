@@ -40,6 +40,7 @@ export default function AboutUs() {
     const [activeIndex, setActiveIndex] = useState(0);
 
     useEffect(() => {
+        document.title = "Біз туралы";
         import("../data/student.json")
             .then((data) => {
                 setStudentsData(data.default || data);
